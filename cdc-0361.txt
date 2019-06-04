@@ -1,0 +1,366 @@
+                                    _
+                                   | \
+                                   |  \
+                                   | | \
+                            __     | |\ \             __
+      _____________       _/_/     | | \ \          _/_/     _____________
+     |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+     | |              _/_/_____    | |   > >    _/_/_____               | |
+     | |             /________/    | |  / /    /________/               | |
+     | |                           | | / /                              | |
+     | |                           | |/ /                               | |
+     | |                           | | /                                | |
+     | |                           |  /                                 | |
+     | |                           |_/                                  | |
+     | |                                                                | |
+     | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+     | |________________________________________________________________| |
+     |____________________________________________________________________|
+ 
+  ...presents...                Chinese Checkers
+                                                         by Oxblood Ruffin
+                                                         12/23/1998-#361
+ 
+             __///////\ -cDc- CULT OF THE DEAD COW -cDc- /\\\\\\\__
+               \\\\\\\/  Everything You Need Since 1986  \///////
+  ___    _   _    ___     _   _    ___       _   _      ___    _   _      ___
+ |___heal_the_sick___raise_the_dead___cleanse_the_lepers___cast_out_demons___|
+ 
+ 
+                    "Hacktivism is an open-source implosion."
+                               -- Oxblood Ruffin
+ 
+ 
+                       "If you always stand straight, 
+                   then your shadow can never be crooked."
+                    -- Liu Qing, former political prisoner
+ 
+ 
+My grandmother died in Quebec on the first of this month. It was a happy
+death. She celebrated her one hundred and third birthday the day before
+then passed quietly in her sleep. At her funeral there was an absence of
+grief though much emotion. From the eulogy service at the home we
+continued to the graveside where most of us stood solemnly or smiled in
+relief. The minister conducted the final rites then exclaimed,
+"Hallelujah, Christ is risen. Go in peace." 
+ 
+As an adult I have never thought of death as the end but as a new
+beginning. And much of life strikes me that way too. Towards the close
+of a vacation I always look forward to getting home so I can take the
+enthusiasm of the trip back to where I live all year. When I tell people
+this they give me queer looks and ask, really? It strikes me strange
+that they do not share my feelings about travel but it would be a boring
+world if everyone thought the same way.
+ 
+Most of the time I'm good this way, seeing the end as a source for
+rejuvenation. But sometimes it's challenging.
+ 
+Recently I had to say good bye to a friend who moved to India. Both of
+us knew that we'd have a shelf life but it was nothing about
+which we ever talked. Blondie Wong was my friend and comrade for three
+years. We met almost by accident. I ended up at a party and he arrived
+looking for a colleague who never quite made it. It was a remarkable
+evening. Within hours we had developed the structure for what was to
+become the Hong Kong Blondes; within two months they were fully
+functional.
+ 
+And now, a few quick answers to some common questions. Who is Blondie
+Wong and what's up with his name?
+ 
+Blondie Wong is a Chinese scientist. He left his country to pursue a
+graduate degree in the UK but decided not to return after the Tiananmen
+Square massacre in 1989. Blondie eventually settled in Toronto and began
+using his current name as a nom de guerre. Like many hacker names it is
+more silly than revealing. When he was younger he had a huge crush on
+Deborah Harry and Blondie was his favorite band; Wong was chosen as an
+ironic completion. It's a name about as distinguished as Smith or Jones
+would be in English.
+ 
+And the Hong Kong Blondes? Who are they and what does their name
+signify?
+ 
+The Hong Kong Blondes are a group of computer scientists and human
+rights activists dedicated to the democratic project in China. They have
+cells in Beijing, Shanghai and Hong Kong and monitor military and
+security networks through the Internet. Some of the Blondes are members
+of the Communist party; most lost relatives at Tiananmen Square. Hong
+Kong Blonde used to be Hongkongese slang for gold. Gold is the
+quintessence of private property and private property is one of the
+cornerstones of democracy. Perhaps a little labored, but it gets there.
+ 
+But now Blondie's all gone. Gone from Toronto and back to his Asia. Not
+China, but close. He went mostly to work with South Asian programmers
+and also to make pilgrimage to some Buddhist shrines in India. And I was
+sad for a while. Then I remembered the smile on the minister's face when
+he proclaimed, "Christ is risen," and it all drained out of me. Sadness
+was replaced by joy and I let go and felt hopeful.  I also got in touch
+with Lemon Li [Chief Technical Officer for the Blondes] to pitch her one
+last plan.
+ 
+                                ***
+ 
+Human rights in China are an objective and at least two Web sites. In an
+act of cynical ventriloquism the Government of China recently attempted
+to confound public perception by creating a Web site called Human
+Rights. This fabrication is an antidote to the venerable
+Human Rights in China maintained from New York under the stewardship
+of the veteran activist Xiao Qiang. One Web site defames the
+ideal while the other celebrates its possibilities.
+ 
+Xiao Qiang has been toiling without fanfare and with the rather meager
+resources that belie his organization's successes. For years he has
+worked for the kind of China that is beginning to emerge from the dream
+state towards a waking reality. And with the assistance of the Olof
+Palme Foundation, Mr. Xiao's message is starting to make some waves on
+the Web. He understands implicitly how to deal with another Chinese:
+when in conflict, strike a dignified tone and mount fair arguments. Give
+your adversary some of the face he requires not to be shamed but not so
+much that your complaint becomes shamelessly ineffective. Mr. Xiao's
+methods are an instruction to Western leaders.  
+ 
+Governments have been far too willing to accede to Beijing's demands for
+silence on human rights abuses. It's  become like a carney farce. Like
+when the mechanical ducks churn past the shooter and you try to figure
+out which one he's gonna cork next. Who will go down? Canada? Australia?
+America? Xiao Quiang has used the Web to champion human rights to a
+world too cynical to believe in politicians yet too engaged to break
+faith with a nation in distress.  
+ 
+All of this begs the question, "Then, how shall we deal with China?" 
+ 
+For the time being it would be  wise not to rely on the leaders of the
+free world to do anything more than mumble a platitude or two. Our
+elected officials have become emasculated to the point where arm waving
+bureaucrats are scattering them like frightened field mice. China has
+raised making threats to an art form but China is -- to borrow a phrase
+from the Great Helmsman -- a Paper Tiger. 
+ 
+The consequences of displeasing China are not clear. What will happen?
+Will the West lose a highly affluent billion plus market? Will Beijing
+become apoplectic and yell, "That's it. From now on we're only going to
+trade with Iraq?" Hardly. To put things into some perspective, Britain
+sells nine times as much to Belgium and Luxembourg as it does to China.
+Nine times. Other trade stats tell the same story. The febrile idiocy
+infecting trade ministers that money can be made in China is lamentable.
+The only people making large coin in China are corrupt bureaucrats who
+have made careers out of emulating Ferdinand Marcos.   
+ 
+China does not have a developed economy and will not have one any time
+soon. Yet Western leaders continuously buckle under to threats from
+petty martinets and receive lectures about meddling in China's internal
+affairs. God help the sinner who screws up here. Billions are at stake
+-- not. And this comes from a country that has yet to discover what fair
+trading practice is. On the issue of intellectual property rights alone
+Beijing has even less respect for the latest version of [fill in the
+name of your favorite piece of software] than a script kiddie from
+Flushing with the crack code to the program. This whole business is
+mesmerizing. 
+ 
+If a politician has the spine to stand up and say, "This ain't right",
+then there is much vaporous Sturm und Drang from China. I
+wonder what would happen if someone actually appeared and said, "I'm
+lovin' this repression thing. Let's make some money".  Some would say
+that Bill Gates has done just that.
+ 
+In April of 1994 Microsoft's uber-boss met with Communist big wig Jiang
+Zemin and stated that his goal was to increase sales in China by 50
+percent per year.  He capped his marketing plans by declaring that "it's
+a little strange to tie free trade" to human rights issues. "It is
+basically getting down to interference in internal affairs," he said. By
+1996 Beijing had figured out that they could end-run elected leaders by
+appealing to CEOs and get exactly what they wanted. In that same year
+China succeeded in preventing the annual meeting of the United Nations
+Commission on Human Rights in Geneva from even considering its human
+rights record. How? By mounting a global lobbying campaign aimed at
+corporations looking for a piece of the Chinese pie. All one had to
+do was say that any discussion of human rights abuses in China should
+be removed from UNCHR's agenda. It was. With no less a figure than Bill
+Gates braying that the West is interfering in China's internal affairs,
+he is delaying reform rather than assisting it. He is also being paid
+for his services.
+ 
+In November of 1998 Microsoft announced the opening of Microsoft
+Research, China in Beijing. This is the third MS research facility,
+the other two are in San Francisco and Cambridge, England. The Chinese
+are clearly delighted with this. Microsoft will invest 80 million dollars
+over the next six years and groom some mighty serious brain power over an
+extraordinary range of projects. How much research that gets ported over
+for military purposes is anyone's guess. But you can bet that China will
+not break its long standing tradition of playing this game with Western
+technology. 
+ 
+Part of Microsoft's intent according to their press release
+is to "build on China's continued efforts to attract and retain research
+talent in the country." Unfortunately -- at the time of this writing -- it
+does not appear that Lin Hai will be available for employment anytime soon.
+Mr. Lin is a software engineer from Shanghai who was recently tried with
+"inciting to overthrow state power". His crime was providing 30,000 Chinese
+email addresses to VIP Reference. Located in the United States, VIP Reference
+distributes reports on dissident activities, human rights and other
+issues to more than 250,000 email addresses in China. Mr. Lin's case is
+somewhat typical. Many arrested dissidents represent the kind of
+"research talent" that Microsoft claims to want. 
+ 
+Another unavailable resume belongs to Wang Youcai, physicist and leading
+figure in the 1989 democracy movement which resulted in the Tiananmen
+Square massacre. He was arrested for trying to register the China
+Democracy Party as an official entity and charged with the universal
+"inciting the overthrow of state power" among other things. He also used
+email to share some of his organization's documents to dissidents
+overseas. High profile trials in China -- which these two clearly have
+become -- regularly produce guilty verdicts. And although China has
+moved modestly to conform to international judicial norms, odds are
+overwhelmingly against the accused in criminal cases. 
+ 
+The tragic irony of these trials is that both individuals used
+technology to advance values that increase peace and prosperity.
+Compounding this irony is China's signature on the United Nations
+Universal Declaration of Human Rights  which asserts in Article 19 that
+"Everyone has the right to freedom of opinion and expression;
+this right includes freedom to hold opinions without interference and to
+seek, receive and impart information and ideas through any media and
+regardless of frontiers." 
+ 
+In some ways Beijing's reaction to these cases is natural. They offend
+China's Confucian code and knee jerk xenophobia. And in some ways the
+comfort level that Redmond has established with the Party bosses smells
+symbiotic. It's arguable that both Communism and Microsoft represent
+closed operating systems in decline. They are perfect for one another.
+Neither is comfortable with the notion of openness. That idea is a
+little too threatening to them. 
+ 
+Open standards, open source. Presently, these ideas revolve around the
+work and deliberations of Linus Torvalds and Eric Raymond, two names that
+strike fear and loathing into Microsoft and beyond. Mr. Raymond's masterful
+essay, The Cathedral and the Bazaar is fundamental to understanding openness.
+And although this paper focuses primarily upon code production issues, its
+implications fly wide and deep. The twin considerations of open source
+are these: that the source code -- or language in which an application is
+written -- be published and available for anyone to review or modify according
+to their needs; that the Internet is the most conducive forum in which this
+exercise can take place. As Mr. Raymond puts it, "... the best hacks start out
+as personal solutions to the author's everyday problems, and spread because
+the problem turns out to be typical for a large class of users."
+ 
+As a development model the Bazaar community exalts the virtues of
+hacking. It is a place where project participants are regarded as
+co-developers and hugable bug crushers. Though in fairness before I go
+on, I should say that Eric Raymond believes that groups like the CULT OF
+THE DEAD COW are the herpes triplex of computing. But I believe that we
+have enough shared sentiments and common cause that my quoting him won't
+make his skin crawl too much. At least I hope so. Mr. Raymond is known
+to be a shooting enthusiast.
+ 
+Earlier I asked the question, "How shall we deal with China?"  The
+political classes are useless. Business leaders are predatory. Where is
+the conscience? I am convinced that only hacktivists will make a
+difference. Hacktivism is an open-source implosion. It takes the best of
+hacking culture, and the imperatives of the quantum community, and fuses
+a solution.  Xiao Qiang of Human Rights in China would probably be a
+little surprised to be called a hacktivist but -- as far as I'm concerned
+-- he qualifies. He has leveraged his program with Net assets. Mr. Xiao
+is the project leader of an open-source protest and the proof of his
+success is in Beijing's bald attempt at high jacking his Web franchise. 
+ 
+The Cold War is over but the Cool Maneuvers are beginning -- the
+information war where memes compete for mindshare and ratings replace
+body count. Hacktivism forges conscience with technology and girds us
+against the disagreeable nature of conflict. It allows us to mount
+better arguments, rally unseen allies, and take on any tyranny. And it
+shrinks any Goliath down to his true size. Usually puny.
+ 
+Human Rights in China are naturally a Chinese problem requiring a
+Chinese solution. Xioa Qiang is part of that solution and so are Lin Hai
+and Wang Youcai. Hacktivists can support their agendas by getting
+informed, giving some time, and staying involved until the problem is
+solved. It won't happen overnight. But hackers have a lot of stamina for
+harsh bug fixes when they believe in the program. That's what I thought
+when I contacted Lemon Li. 
+ 
+                                 ***
+ 
+The last time I got in touch with the Hong Kong Blondes Chief Technical
+Officer it was mostly to bid her au revoir and God-speed. And to ask her
+to drop 5000 copies of Back Orifice -- the cDc's network administration
+tool for Windows -- into China. I wasn't exactly sure what I was going to
+use them for but the opportunity for deployment was too delicious to
+pass up. According to Microsoft, Back Orifice is no threat to the marks,
+rather, the users of their operating system. But in our experience they
+are just whistling into the abyss. Having this application dropped onto
+your hard drive is like giving your PIN number, your house keys and your
+lover's nude photos to a stranger, only worse. My sincere wish is that
+the Win9x OS install base in China includes legions of Communist Party
+officials, corrupt bureaucrats and nasty high school vice-principals.
+I'm sure that we'll find out soon enough. 
+ 
+Part of the fun is not really knowing what will happen. When Sir Dystic
+first programmed Back Orifice and released it at Defcon last summer
+no one could have predicted its impact. To date approximately three
+hundred thousand copies of the program have been downloaded from the
+CULT OF THE DEAD COW Web site. And given the state of trading and
+copying that goes on the Net, we're probably looking at a number closer
+to one million copies in total. Zowie. Right after the release there was
+nothing so pathetic as the phalanx of PR flacks stumbling out of Redmond
+pooh-poohing Back Orifice. It was one stinking performance. At first
+Back Orifice was no threat. Then there was something to it but Windows
+users had nothing to fear. Then it was something else. They never had a
+clue how to contain the damage. Bill Gates probably didn't have enough
+money to get good help after blowing his whole PR budget on reinventing
+himself as Ozzie Nelson on his way to an anti-trust suit. Still, it was
+amusing. 
+ 
+To be honest, Back Orifice was not developed to take on Beijing. It was
+developed to show that Microsoft security sucked. But we couldn't be
+happier that the Reds and Redmond have cosied up so nicely. And the more
+that Back Orifice is deployed, the more use it will be. There are a
+number of plug-ins for the program in development that will expand upon
+its already robust abilities.  And there's the Windows NT version
+waiting in the wings. But why tell all now? It would be more fun to wait
+for the Chinese make an official complaint to Washington. Or to watch
+them close down Microsoft Research, Beijing for being a party to their
+demise. Not that we're complaining, but it does seem astounding that
+China would put so much faith in Microsoft to help them develop their
+computing infrastructure. You'd think a little more attention to
+security issues would ... hmm, I'd better keep it to myself.  
+ 
+Now things are looking brighter. More people are finding out about
+hacktivism. The people and resources are in place to do more and better
+work. And Bill Gates is gonna look like a jackass explaining to the top
+noodles why there are so many bugs in the Great Firewall. 
+ 
+I was saddened to say good bye to Blondie and his crew, not just because
+we were friends, but because I wanted to stay involved with the struggle
+in China. But now I know that's going to happen. Back Orifice is our
+gateway to the contest. Just a few weeks ago the CULT OF THE DEAD COW
+got some email from a kid in China who loved the program. That's when I
+knew we were still in the game. It was a new beginning.
+ 
+Hallelujah, Christ is risen. Go in peace.
+ 
+ 
+POSTSCRIPT: Wang Youcai was sentenced to eleven years
+imprisonment on December 21, 1998. His sentence was handed down after a
+one-day trial that was closed to the public. He was tried on subversion
+charges - and effectively denied legal representation - when he was
+forced to present his own defense.
+Shame on Beijing.
+ 
+ 
+    .-.                             _   _                             .-.
+   /   \           .-.             ((___))             .-.           /   \
+  /.ooM \         /   \       .-.  [ x x ]  .-.       /   \         /.ooM \
+-/-------\-------/-----\-----/---\--\   /--/---\-----/-----\-------/-------\-
+/lucky  13\     /       \   /     `-(' ')-'     \   /       \     /lucky  13\
+           \   /         `-'         (U)         `-'         \   /
+            `-'              the original e-zine              `-'    _
+      Oooo                    eastside westside                     / )   __
+ /)(\ (   \                       WORLDWIDE                        /  (  /  \
+ \__/  )  /  Copyright (c) 1998 cDc communications and the author. \   ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+          cDc communications, PO Box 53011, Lubbock, TX, 79453, USA.      _
+  oooO            All rights reserved.  Edited by Omega.            __   ( \
+ /   ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ (   /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo 
+ 
+ 

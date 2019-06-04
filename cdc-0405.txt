@@ -1,0 +1,289 @@
+                                   _
+                                  | \
+                                  |  \
+                                  | | \
+                           __     | |\ \             __
+     _____________       _/_/     | | \ \          _/_/     _____________
+    |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+    | |              _/_/_____    | |   > >    _/_/_____               | |
+    | |             /________/    | |  / /    /________/               | |
+    | |                           | | / /                              | |
+    | |                           | |/ /                               | |
+    | |                           | | /                                | |
+    | |                           |  /                                 | |
+    | |                           |_/                                  | |
+    | |                                                                | |
+    | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+    | |________________________________________________________________| |
+    |____________________________________________________________________|
+
+            ...presents...      Four Oh Five
+                                                      by Flack
+
+           __//////\   -cDc- CULT OF THE DEAD COW -cDc-   /\\\\\\__
+                    __      Grand Imperial Dynasty      __
+ Est. 1984   \\\\\\/ cDc paramedia: texXxt 405-05/06/2006 \//////   Est. 1984
+
+  ___    _   _    ___     _   _    ___       _   _      ___    _   _      __
+ |___heal_the_sick___raise_the_dead___cleanse_the_lepers___cast_out_demons__|
+
+       There's a feeling of nostalgia I get every time I drive past my old
+neighborhood, which isn't far from where I live today.  Back when I was a kid,
+my neighborhood was my entire world.  My stomping grounds consisted of six
+connected blocks, surrounded by a creek on two sides and highways on the
+other two.  From sun up to sun down, I was free to roam wherever I wished as
+long as I stayed within the boundaries of my neighborhood. To tell you the
+truth, I'm not sure going past those boundaries ever even crossed my mind.
+
+       As you get older, perspectives change.  When the kids in the
+neighborhood (including myself) turned sixteen, we got cars and our worlds
+were exponentially expanded.  Overnight, our old neighborhood went from being
+the coolest place we knew to the most boring place on Earth.  Before long, all
+my friends had graduated from high school and moved away.
+
+       Even though the neighborhood looks different these days, I'll always
+treasure my memories, not only of the neighborhood and the people who lived
+there, but of all the adventures we had together.  No matter how many years or
+miles come between me and that old place, the stories and adventures those of
+us who grew up there had together will be with me for the rest of my life.
+
+       The same can be said for those of us who grew up behind computer
+screens, calling Bulletin Board Systems.  Online, our neighborhoods were our
+area codes, lines drawn in the sand for us by Ma Bell.  As long as I stayed
+within those virtual boundaries, I was free to call whomever I wanted.  The
+people I met through BBSes and the adventures we had together were very real
+and a very big part of my childhood.  In fact, there are lots of people I met
+online 20 years ago that I still talk to today.
+
+       When it comes to the great BBS era, either you were there or you
+weren't.  If you weren't, well, you missed out on some incredible times.  The
+camaraderie between users in a local area code will never be matched through
+the Internet.  Like a gang, those of us from the same area code stuck
+together, ready to take on the world.
+
+       My area code was 405.
+
+       405 wasn't much different than any other area code.  It wasn't
+particularly special or unique in any way.  In fact, there's no real reason
+why 405 deserves a tribute dedicated to it over your own local scene.  Many of
+the stories and ideas that appear here could and probably did apply to your
+area code as well.  Unfortunately, as many of us have discovered over the
+years, despite being one of the most exciting electronic eras of our lives,
+nobody was taking notes. While there have been attempts at documenting the
+overall history of BBSes (Jason Scott's _BBS: The Documentary_ comes to mind),
+many of the local legends and escapades -- not just from 405 but from every
+area code -- have all but been erased from existence.  As BBSes were
+eventually turned off one by one they took their histories with them.  And
+more than that, some of my strongest memories from those years were things
+that happened in real life, things that didn't even happen online.  And so, if
+you'll indulge me for a few lines more, I'd like to share with you just a few
+of my memories from my own noggin about my alma mater...405.
+
+                         <<<--- 4 --- 0 --- 5 --->>>
+
+       Back when I started modeming, there wasn't much of a "scene."  For
+starters,  everyone was separated by machine type; the Apple users called
+Apple boards, the Commodore users called Commodore boards, the Atari users
+called Atari boards, the PC people called PC boards, and so on.  Within these
+groups there were subgroups, the biggest division being between those who
+trafficked in warez and those who didn't.  At least in the early days, it
+seemed like boards rarely did both -- you either ran a warez board with paltry
+message areas, or a message board with everything but warez.  Keep in mind
+that back then, running a warez BBS meant dropping some serious cash for
+hardware.  Back in the early Commodore days, floppy drives cost $200 each.
+You could run a BBS with just one drive, but all your system files on one disk
+didn't leave much room for games.  Plus if you were running in this
+configuration, people could crash your board simply by uploading files until
+your disk was full, preventing the BBS software from writing to disk and
+locking the whole thing up.  To run a serious warez board, you needed
+multiple floppy drives; running three (one for the BBS itself, one for uploads
+and one for downloads) wasn't unheard of.  The really serious guys invested in
+hard drives.  In the late '80s, a 10 meg hard drive for the C64 would set you
+back over a thousand dollars.
+
+       As a result of all this separation, 405 (and as I mentioned earlier,
+all area codes) ended up with "pockets" of users.  Imagine them as the kids
+you started kindergarten with.  As you worked your way through elementary
+school, they were by your side.  The same people tended to call the same
+boards, and pretty soon small scenes began to develop.  But again, these were
+mostly divided up by platform (the Commodore scene, the Apple scene, etc).
+In addition, each platform was likely to have multiple scenes, groups of
+people who never crossed paths.
+
+       I had some great times within both the Apple and Commodore scenes -- so
+much in fact that I've almost finished my first book on the subject -- but
+none of these fractured cells can truly be called the "405 scene."  In my
+opinion, that didn't happen until the early '90s.  The main catalyst for this
+change was the unification of platforms.  We all got IBM PCs -- or rather,
+for many of us, our parents did.  Businessmen across the country were buying
+PCs with hard drives and modems to keep up in the business world.  At night,
+after those businessmen went to bed, their kids would turn those same machines
+back on and begin dialing BBSes.
+
+                         <<<--- 4 --- 0 --- 5 --->>>
+
+       As everyone began gravitating toward the IBM platform, all of our
+worlds began meshing together as well.  As more people began calling the same
+boards and the pool of people began to grow, cool things began to happen --
+namely, "like people" began to find each other.  As a result, some really
+cool things began to happen.
+
+       One was the birth of TBH405, or simply The Brotherhood.  TBH405 was a
+group of people who actively promoted the local scene.  TBH405 released
+scene-related newsletters, ranking local boards and users and keeping people
+informed as to the goings-on of the inner circle, so to speak.  Think of it as
+the cool kids from school, if the cool kids from school had had their own
+club.  The coolest thing about The Brotherhood was its wide variety of members
+and their skills.  Sure there were warez hounds, but there were people who
+were into hacking, and the art scene, and programmers, and all kinds of stuff.
+If you were a member of The Brotherhood, you were hooked up.
+
+       TBH405 wasn't the only group in town.  Soulz at Zero, often referred to
+as the first themed lit group, was founded by The Stranger and myself in 405.
+A group of five girls known as TDKEB also had some success with their lit
+packs which consisted of poetry, stories, girly-gossip and in jokes.  TBH405
+even managed to get their public meeting times published in 2600 Magazine for
+a while.
+
+       Like many other area codes, there were always a select few BBSes that
+had risen above the local scene and made contact with the outside world.
+Boards like "Scooter Dome" and "The Plutonium Project" kept the rest of the
+405 scene stocked with the latest games and applications.  Even better was
+when "Street Spydrs" (the Razor 1911 WHQ) temporarily relocated to our area
+code.  Suddenly the scene locals were being drafted into courier positions for
+the megagroup, and local boards were flooded with all the latest warez.
+
+       Of course my greatest memories of those times weren't about the groups
+or the warez or even the boards themselves, but about the people.  Since BBS
+"scenes" normally consisted of people who lived within the same area code, it
+was not uncommon for those people to meet in real life.  Sometimes, it was for
+"business" reasons; back in the early days, due to slow modem speeds, it was
+often quicker to trade software with someone in person than it was to do it
+over the phone lines.  There were just as many social events as well -- BBS
+Parties, as they were referred to.  A local Commodore 64 cracking group I was
+a member of (the OK Krackers) hosted the first BBS party I ever attended.  It
+was also the first time I ever got drunk.  I was 14.  Imagine mom's surprise
+when she picked me up the next morning and found dried puke stuck in my hair
+and one shoe missing.  It was a long night.
+
+       Over the years I attended dozens of local parties.  The Brotherhood had
+their own official  "Gatherings."  There were nine or ten of those, each
+wilder than the last.  There was the one where Ozzymandias passed out, fell
+against a wall and knocked his front tooth out.  There was the one where
+someone ate pink Hostess snacks and managed to vomit pink puke all over
+someone's living room carpet.  There was the one where people were doing shots
+of Jack Daniels and Pace Picante Sauce.  Then there was the Gathering where
+Yaun-Ti (the founder of TBH405) got so drunk that he forgot where he lived, a
+fact he informed us of after several of us drove him around for hours on end.
+
+       The interpersonal relationships that formed during those times were
+unbreakable, or so we thought.  I can remember joking with people that someday
+our kids might call the same BBSes we called.  It seemed like the scene would
+never die -- and then practically overnight, it did.
+
+       In mid-to-late 1994, several of us discovered the Internet.  At least,
+for us, this was pre-Web days.  The Internet for us consisted of a few FTP
+sites and IRC.  IRC seemed mind-blowing to us at the time.  For years, we'd
+been limited to chatting with one person at a time, and all of a sudden here
+there could be hundreds of people talking in the same place.
+
+       What's funny though, looking back, is that everything we saw that you
+could do on the Internet we saw as an extension of the BBS world.  The
+Internet was another place you could get warez for your BBS.  Using the
+Internet, you could route mail to and from other boards.  If your favorite BBS
+was busy, you could get on the Internet and chat on IRC until the board became
+available.  I don't think we ever realized just how quickly the Internet would
+squash our little local scene out of existence.  But it did.  It killed them
+all eventually.  Some hung on longer than others, but eventually as speeds
+increased and the web blossomed, it became evident to even the oldest of the
+old schoolers that there was no stopping the behemoth.
+
+       Soon, nobody cared what area code you were from because it didn't
+matter.  In that sense, the Internet was the great equalizer.  Nobody knew
+your history and nobody cared about your little local groups.  The Internet
+was global, baby.
+
+       Just like the old neighborhood, I'm still wistful about those old days.
+I try and keep touch with as many of the old group as possible.  Anacodia
+married Tekin and moved to California.  False God got on with Dell and lives
+in Austin.  Gatoperro moved to Texas and is now in California, I think.  Prong
+moved to Florida.  My buddy Arcane lives outside of Dallas.  There are a few
+of us still left in 405.  Violetta Kitten moved out of state and came back.
+Leperkhan still lives here; his kid's in junior high now, I think.  The
+Stranger is an elementary schoolteacher somewhere around these parts.  Black
+Sunshine's got 14 degrees or something in psychology and sociology and working
+on her doctorate.  Rivas works for a major aeronautical company.  I work for a
+different one.  It gets harder and harder to keep track of people.  Some you
+can still catch on IRC. Some have blogs.  Some I get an e-mail from a couple
+of times a year.  Some have disappeared completely.
+
+       At least one died; Ghost in the Machine passed away several years ago.
+It was a strange way to reunite the old gang one last time.  In one small,
+dingy church sat most of the major players from the old 405 scene.  Looking
+around the room, I saw people I'd cracked password files with, people I'd
+hacked ISP accounts with, people I'd gone to concerts with, people I'd drank
+too much and passed out with, all sitting around wearing ties, trying to look
+at least semi-respectable.  That was the last time I saw most of the old crew;
+at a funeral, of all places.
+
+                         <<<--- 4 --- 0 --- 5 --->>>
+
+       This past weekend, my old neighborhood had their annual garage sale
+weekend.  It's weird going back there a generation later, as so much stuff has
+changed.  The old creek I used to play army in was paved long ago and
+surrounded by a chain-link fence shortly thereafter.  The field I used to play
+football in has a house on it.  Our old dirt bike track is now home to an
+official softball field.  There are other parts of the neighborhood that still
+look the same.  The willow tree under the streetlight across the street from
+my old house is still there.  The view out my father's bay window looks the
+same as it did 20 years ago.
+
+       The old BBS landscape, however, is gone forever. The disks have been
+thrown away, or were formatted, or simply rotted over time.  In my garage, I
+have 3-ring-binders full of old printed out user lists and text files, the ink
+of which has faded over the years.  I hang on to old spiral notebooks filled
+with names, passwords and phone numbers, but the more time goes that by, the
+less familiar the notes look.  I recognize the handwriting as my own, but the
+meaning behind some of the notes gets more cryptic each year.
+
+       Even some of the stories have begun to fade from my human brain.
+Someone's story will start, "Remember when we..." and I'll think to myself,
+"no, I don't."  Maybe it'll sound familiar, maybe it won't.  With no written
+documentation, I find that many of the stories are different depending on
+who is telling them.
+
+       Rose-colored glasses or not, I'll always think back to the old BBS days
+as some of the greatest times of my life.  The files, the games, the disks,
+the accounts, even the boards themselves are all gone.  But the memories, the
+adventures, the fun times...they'll always be with me.
+
+       Here's to ya, 405.
+
+         ___________    BLATTA---NON     EST---VACCA     ___________
+         \         /      \    \_            _/    /     \         /
+          |A G L A|        \     \          /     /       |A G L A|
+          ||\/X\/||         \    EST_   _EST     /        ||\/X\/||
+          || \./ ||          \       \ /        /         || \./ ||
+|\        ||_3 4_||        /|NON     cDc     NON|\        ||_3 4_||        /|
+| -------._((___))_.------- |EST      |      EST| -------._((___))_.------- |
+|\/)(\/\   [ x x ]   /\/)(\/|   \     |     /   |\/)(\/\   [ x x ]   /\/)(\/|
+|(YHVH) >A  \   /  O< (AHIH)|    \   EST   /    |(YHVH) >A  \   /  O< (AHIH)|
+|/\)(/\/  _ (' ') _  \/\)(/\|     \   |   /     |/\)(/\/  _ (' ') _  \/\)(/\|
+| -------' ) (U) ( '------- |      \  |  /      | -------' ) (U) ( '------- |
+|/        ||  .  ||        \|    DAEMONSEMEN    |/        ||  .  ||        \|
+          || / \ ||                ELIGERE                || / \ ||
+          ||/\X/\||                                       ||/\X/\||
+          |A D N I|          the original e-zine          |A D N I|
+         /_________\         - today, tomorrow -         /_________\
+      xXx  DYNASTY  xXx            FOREVER            xXx  DYNASTY  xXx
+                                                                     _
+      Oooo                 xXx / RULE BOVINIA \ xXx                 / )   __
+ /)(\ ( . \                                                        /  (  /  \
+ \__/  )  /  Copyright (c) 2006 cDc communications and the author. \ . ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+         cDc communications, 1369 Madison Ave. #423, NY, NY 10128, USA    _
+  oooO              All rights left.  Edited by Myles Long.         __   ( \
+ / . ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ ( . /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo
+                                    .ooM

@@ -1,0 +1,121 @@
+                                    _
+                                   | \
+                                   |  \
+                                   | | \
+                            __     | |\ \             __
+      _____________       _/_/     | | \ \          _/_/     _____________
+     |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+     | |              _/_/_____    | |   > >    _/_/_____               | |
+     | |             /________/    | |  / /    /________/               | |
+     | |                           | | / /                              | |
+     | |                           | |/ /                               | |
+     | |                           | | /                                | |
+     | |                           |  /                                 | |
+     | |                           |_/                                  | |
+     | |                                                                | |
+     | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+     | |________________________________________________________________| |
+     |____________________________________________________________________|
+
+ ...presents...                    redbox.c
+                                                        by Javaman
+
+           __//////\   -cDc- CULT OF THE DEAD COW -cDc-   /\\\\\\__
+ Est. 1984   \\\\\\/ cDc paramedia : text #379-07/24/2001 \//////   Est. 1984
+
+    __    _   _    __     _   _    __       _   _      __    _   _      __
+   |__heal_the_sick__raise_the_dead__cleanse_the_lepers__cast_out_demons__|
+
+/* redbox.c */
+/* Written by Javaman */
+
+#include    /* Yes, this code compiles.                       */
+#include     /* gcc -o redbox redbox.c -lm                     */
+#include        /* Don't forget to link in the math library.      */
+#include       /* This code requires linux and sound support     */
+#include  
+#include  
+#include  
+#include 
+#include 
+
+#define QUANTIZE 16
+#define CHANNELS 1
+
+int main(void) 
+{
+     int n; /* Were things really better back in the day?  I seem to       */
+     unsigned long int i; /* not be able to let go of the past, tend       */
+     int sound_fd, status; /* to revel on previous experiences, just       */
+     unsigned long int bufsize, arg; /* because it is ... comfortable.     */
+     unsigned short int *buf; /* ... as pathetic as a middle-aged          */
+     unsigned int samplerate = 32000; /* corporate drone watching tapes    */
+     unsigned long int samples = samplerate * .330; /* of his old football */        
+     sound_fd = open("/dev/dsp", O_RDWR); /* games from back in the day,   */
+     if (sound_fd < 0) { /* when "your mother and I were dating."  But the */
+          perror("/dev/dsp"); exit(1); /* warm fuzzy of nostalgia,         */
+     } /* knowing that yes, you accomplished something, makes the world    */
+     bufsize = samples * sizeof(unsigned short int); /* feel a bit easier  */
+     buf = (unsigned short int *) malloc(bufsize); /* to deal with, and    */
+     arg = QUANTIZE; /* eventual death acceptable, almost as though we     */
+     status = ioctl(sound_fd, SOUND_PCM_WRITE_BITS, &arg;); /* have made    */
+     if (status == -1) { /* indelible marks upon the history of            */
+          perror("SOUND_PCM_WRITE_BITS ioctl failed"); /* whatever.        */
+          exit(1); /* But a sigh usually caps off the standard cock-       */
+     } /* stroking session of the BBS-dayz bullshit, when we had           */
+     if (arg != QUANTIZE) { /* only 32 baud modems.  Maybe it's that       */
+          perror("unable to set quantize rate"); /* I need to know         */
+          exit(1); /* how little I knew, how young I was, to re-           */
+     } /* assure myself of the growth that I have (?) experienced,         */
+     arg = samplerate; /* magic marker lines with my handle and the date,  */
+     status = ioctl(sound_fd, SOUND_PCM_WRITE_RATE, &arg;); /* maybe        */
+     if (status == -1) { /* a dial-in or two on some sort of collective    */
+          perror("SOUND_PCM_WRITE_RATE ioctl failed"); /* parental         */
+          exit(1); /* doorjam belonging to history herself.  It could be   */
+     } /* a quest for immortality, for power -- all expressions of sexual  */
+     arg = CHANNELS; /* drives -- or maybe a hug for my inner child.       */
+     status = ioctl(sound_fd, SOUND_PCM_WRITE_CHANNELS, &arg;); /* But I    */
+     if (status == -1) { /* am not by any means someone who has any clue   */
+          perror("SOUND_PCM_WRITE_CHANNELS ioctl failed"); /* about        */
+          exit(1); /* anything, other than distilled problems which        */
+     } /* can be expressed in purely logical situations, which is          */
+     printf("Bufsize: %i\n", bufsize); /* almost a moot point when dealing */
+     for (i = 0; i < samples; i++) { /* with complex systems such          */
+          buf[i] = 0; /* as human interaction.  Feeling... like a jazz     */
+     } /* note on life, thoughts from the crowds, interacting, loving?     */
+     for (n = 0; n < 5; n++) { /* each one special in its own way.         */
+          for (i = (n * .066 * samplerate); i < (samplerate * /* It has    */
+               (.033 + .066*n)); i++) { /* been said that empathy is what  */
+               buf[i] = (unsigned short int) /* sets us apart from the     */
+               ((cos(2*M_PI*1700*i/samplerate) + /* animals, but does      */
+               cos(2*M_PI*2200*i/samplerate)) * 10000); /* anyone give a   */
+          } /* rat's ass about other people when their own lives are at a  */
+     } /* crossroads?  Nihilism. The opposite of hippiedom?  The cyclical  */
+     printf("Generating tones...\n"); /* nature of the thread, which       */
+     status = write(sound_fd, buf, bufsize); /* should just be trashed,    */
+     if (status != bufsize) { /* but that is okay.  Vibes can be recorded, */
+          perror("wrote wrong number of bytes"); /* saved, reflected       */
+     } /* upon, cherished possibly, forgotten probably.                    */
+     status = ioctl(sound_fd, SOUND_PCM_SYNC, 0); /* but it can be hoped   */
+     if (status == -1) { /* that someone, years from now, reads this,      */
+          perror("SOUND_PCM_SYNC ioctl failed"); /* and imagines the       */
+     } /* the writer, back in the day, reminiscing on when the sounds      */
+     return 0; /* and the medium actually meant freedom of thought, and,   */
+     } /* possibly, a shot at eternal life.                                */
+
+    .-.                             _   _                             .-.
+   /   \           .-.             ((___))             .-.           /   \
+  /.ooM \         /   \       .-.  [ x x ]  .-.       /   \         /.ooM \
+-/-------\-------/-----\-----/---\--\   /--/---\-----/-----\-------/-------\-
+/lucky  13\     /       \   /     `-(' ')-'     \   /       \     /lucky  13\
+           \   /         `-'         (U)         `-'         \   /
+            `-'              the original e-zine              `-'    _
+      Oooo                    eastside westside                     / )   __
+ /)(\ (   \                       WORLDWIDE                        /  (  /  \
+ \__/  )  /  Copyright (c) 2001 cDc communications and the author. \   ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+          cDc communications, 1369 Madison Ave. #423, NY, NY 10128, USA   _
+  oooO              All rights reserved.  Edited by Omega.          __   ( \
+ /   ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ (   /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo

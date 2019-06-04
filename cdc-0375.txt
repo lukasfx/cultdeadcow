@@ -1,0 +1,424 @@
+                                    _
+                                   | \
+                                   |  \
+                                   | | \
+                            __     | |\ \             __
+      _____________       _/_/     | | \ \          _/_/     _____________
+     |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+     | |              _/_/_____    | |   > >    _/_/_____               | |
+     | |             /________/    | |  / /    /________/               | |
+     | |                           | | / /                              | |
+     | |                           | |/ /                               | |
+     | |                           | | /                                | |
+     | |                           |  /                                 | |
+     | |                           |_/                                  | |
+     | |                                                                | |
+     | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+     | |________________________________________________________________| |
+     |____________________________________________________________________|
+
+  ...presents...   The 1999 Chaos Communication Camp: 
+                         An Eyewitness Account
+                                                         by Reid Fleming
+                                                         4/25/2000-#375
+
+
+             __///////\ -cDc- CULT OF THE DEAD COW -cDc- /\\\\\\\__
+               \\\\\\\/  Everything You Need Since 1984  \///////
+  ___    _   _    ___     _   _    ___       _   _      ___    _   _      ___
+ |___heal_the_sick___raise_the_dead___cleanse_the_lepers___cast_out_demons___|
+
+Auch fühlen Sie bitte sich frei, mein Fotoalbum durchzulesen. http://www.newhackcity.net/~rfleming/cccamp1999/pix.html
+
+ 
+
+In August 1997, I remember seeing news coverage of a hacker conference in Holland called Hacking In Progress. It was a hacker con like any other, except for a small twist: the Dutch decided to hold it outdoors.
+
+Everybody slept in tents. There was a camp-wide LAN to plug into, as well as an electrical feed. It sounded like the coolest thing, and I wished very much that I could be there.
+
+I made a mental note to look into attending HIP '98, but the idea was unlikely. For one thing, I had never been to Europe. I didn't like the idea of traveling alone, and my high school Spanish would be useless in the Netherlands. Hell, I didn't even own a passport.
+
+A year and a half passed, and there never was another HIP. But in that time, a lot had changed for me. I somehow managed to survive two trips to Europe, even one by myself. I had been to England, Ireland, Germany, France, and the Netherlands.
+
+In March 1999, I was chatting with Frank Rieger of the Chaos Computer Club. Frank told me that they were putting together a hacking conference outside Berlin. The event would be held outdoors in tents, just like HIP.
+
+They were calling it the Chaos Communication Camp, scheduled for August 6-8. Frank urged me to come, and to bring my cDc brothers and sister.
+
+Initially, my answer was no. We were all busy scrambling to cover the details of our upcoming Defcon presentation, which was just four months away. BO2K was in beta, lots of loose threads required tying up, and I still hadn't located a smoking jacket to wear.
+
+Also, a trip to Germany means luggage, passport, currency exchange, electrical socket adapters, and 18 hours wasted in planes and airports. And let's not forget the language barrier. I was in Germany once before, so I knew basically what to expect. The Germans lull you into a false sense of security, because they speak fluent English in the airport. Same for your hotel's front desk, and in nice restaurants. [Ed: That's not my recollection. The previous year when Reid Fleming and I went to Germany, almost no one spoke English. When I inquired with the hotel front desk in Berlin about the nearest Cyber Cafe, I had to explain what the Internet was. The desk clerk asked me in German, "Do you think Germany has an Internet?" A year later, apparently Germany has one.]
+
+But at a train station or fast food restaurant or taxicab, the English gets pretty rare. It's a real struggle because all I have is a cheap German phrasebook and decades of World War II films and Castle Wolfenstein for the Apple ][. So basically I can say "HALT! AUSWEISS! HEIL!" but that's really about it.
+
+But Frank wouldn't accept my answer. On IRC he whittled away at my resolve, until one day I watched myself order a roundtrip ticket to Berlin. I tried to convince some other cDc people to join me, but everyone was gonna be either busy or broke.
+
+By the time Defcon arrived, I had nearly forgotten about the CCC Camp. That weekend was crazy. All I wanted to do afterwards was spend a few months in an isolation tank.
+
+Then one day about three weeks after Defcon, I purchased a brand new sleeping bag, hailed a cab to the airport, and boarded a plane to Berlin.
+
+ 
+
+AUGUST 5, THURSDAY
+I land in Berlin-Tegel in the afternoon. Make it through passport control and customs without getting searched, which is good because I am carrying some stuff that the customs officials might have confiscated.
+
+I just don't have the brainpower or energy to deal with the S-Bahn, so I hire an airport cab to bring me to the Camp. It's been about 12 hours since I left home. Of course, the first cab driver doesn't speak English. And he isn't a Berlin cab. He points to a taxi stand where I can grab a Berlin cab.
+
+I approach one driver and ask how much it will cost to get to Paulshof, a rural town half an hour east of Berlin [Ed: Paulshof is apparently so remote, they only have a "test site" for the city's web page.]. He speaks English (luckily) but has no idea where Paulshof is and doesn't have a map. We dither over this set of problems for a short time before he locates another driver who has a map. He has never driven there before either, but he's willing to try. Of course, he doesn't speak English.
+
+About an hour later we reach Paulshof. We have no real idea what to do next, but then I catch a glimpse of a white sign with a rocket on it and an arrow pointing left. We follow it to another sign, and then another, and finally we're heading down a deserted country lane.
+
+There are some cars parked here, and a card table with somebody taking money from some backpackers. This must be the place. The cab-fare works out to around 80 DM, the driver leaves with 100.
+
+I grab my duffel bag and head over to the table. I pay the entry fee and ask where I can find Frank Rieger.
+
+"You are American?" the guy asks. Yes I am. "Frank said there was an American coming, and to notify him." Yes, I'm that guy. He says something into his walkie-talkie.
+
+I receive my wristband and booklet. The guy points out where the Reengineering camp is on the booklet map. I am directed to walk down the lane, past the farm house, then turn left at the Art&Beauty tent. Which I do.
+
+Mostly brown grass everywhere with the consistency of straw. Small clumps of greenish crabgrass scattered atop the clay field. Lots of tents already up, some still in process. The ground is hard. I see people struggle to pound tent stakes into the soil.
+
+The camp is laid out in a radial pattern of sorts, like a wagon wheel. A small spaceship (called the "Nugget") sits in a wooden corral at the center. The various camps are arranged around it, as irregular pie wedges. Borders between camps are defined by lines of standalone fluorescent lamps, arranged in spokes.
+
+If the layout sounds particularly orderly, it isn't. The edges of one camp and another are very blurred; there are no signposts and few landmarks.
+
+Turns out I was directed to the wrong place. I check the map again. Unfortunately, the cartographer decided to use a bright green to indicate the Reengineering camp and a slightly brighter green to indicate an area of grass on the other side of camp.
+
+It's going to get hot, and I don't have shorts. Just black denim jeans. Not good, but at least there's an intermittent wind off the lake. (Let's hope this continues all weekend.)
+
+After a few minutes of walking around, I finally locate the Reengineering camp and Frank and I find each other. He shows me the brand-new dome tent which I will call home for the next 5 days. I throw my stuff in the tent and slap a cDc sticker on each tent wall so I can find it at night.
+
+Then Frank shows me around the Camp. We take a clockwise path, in order to wind up at the Cryptography camp.
+
+We come to a portable toilet with a big padlock on it. There are a handful of ethernet cables emerging from the plastic grill of one of the air vents. The cables drop to the ground and run across the field toward various tents. Then I notice the sign. "Datenklo: keine Toilette! no toilet!"
+
+Frank informs me that Datenklo is German for "Datapotty". Actually, he says the British version ("Dataloo"). In addition to all the standard portable toilets, the CCC ordered 10 with the waste storage systems omitted. These are spread out over the Camp, providing shelter to the network backbone equipment. If you need to plug in a hub, you have to find somebody with a key to your local Datenklo.
+
+We pass through the Lockpicking camp. They have a large tent set up for workshops, which is packed with people sitting barefoot on the carpeted floor. They are diligently poking metal slivers into padlocks.
+
+Next, we walk into the Hackcenter, which is housed in an enormous tent, easily the largest in the compound. It's big enough to house a couple of full-court basketball games, were it not clogged with computers and people and furniture. Temporary wooden flooring. There are dozens of tables teeming with computer equipment and scores of people tending to their Linux boxes. There is an information table and your standard cork bulletin boards with late-breaking announcements. Also, this looks like the best place to purchase cold beverages, especially after Frank tells me it's open 24 hours.
+
+We emerge through the other side of the Hackcenter and there's the 60-foot tall portable microwave tower. The tower is attached to a bigass truck. I am told that Deutsche Telekom agreed to provide the use of their tower, largely because they had never deployed it for anything but test exercises and would like to see how it handles a live network. The microwave link yields a 34 megabit connection.
+
+Frank tells me that they wanted to put up a big CCC flag atop the microwave tower, but their Aesthetics crew objected. I come to learn that the CCC has hired people experienced in putting on raves. They handle key elements, such as decorating and food service.
+
+Then we come to the Art&Beauty camp. The Art&Beauty people are helping to design new components for the Heart of Gold repair effort. They have a very cool looking archway whose design was obviously influenced by the extraterrestrial visitors.
+
+Their tent is filled with graphic design workstations and printers, plus a piece of equipment which at first glance resembles a plotter but upon closer inspection reveals itself to be a 3D printer. It's a computer-controlled machine which assembles solid objects by layering little strips of molten plastic.
+
+We continue our trip by heading for the lakeshore, which is right in the heart of the Leisure Lounge camp. Here is the spot to watch the Europeans strip naked and go for a swim. Or buy a Wagenburger (a vegetarian hamburger-like product). Or have a drink. Or listen to dance music in the evening.
+
+We continue our circuit and finally arrive at the Cryptography camp. The Cypherpunks have organized this area, and they have two tents set up for their purposes. One is basically a place for them to throw their clothes and sleeping bags. The other is a well-furnished rec room, complete with a refrigerator, deejay station and sound system, picnic benches, and inflatable plastic couches and chairs.
+
+This is the most ostentatious (and loudest) spot in the camp. Accordingly, it's got the highest concentration of Americans. I feel right at home here.
+
+Operating out of a VW bus in the back of the Cryptography camp are several of the Hippies from Hell. They're a bunch of Dutch hackers plus a few of their little kids.
+
+I hang out with Frank until midnight or so. I meet some Cypherpunks, CCC people, and most of the Hippies from Hell.
+
+When I meet somebody, one of their first questions is usually "Are you in a project?" or "Do you have a project?" I tell them no, I'm on vacation. They always look disappointed.
+
+It seems that everyone Frank introduces to me has an interesting hack behind him, some clever exploit or famous accomplishment. It's almost intimidating, the first few times. But after a while I just want to meet more of these people, their stories are so engrossing.
+
+Instead of stories about friends getting drunk and stealing a golf cart, I hear about reengineering smartcards and exploring undocumented chip opcodes.
+
+Eventually I learn that for these Europeans, hacking means doing projects, pure and simple. Lots of them have come here to do exactly that. They bring exotic specimens of every type: gadgets for dissection, a plethora of hardware and software tools, rare reference works to consult and share, and any wild idea they've been kicking around lately.
+
+They carry these things to the Camp because they're hoping to find collaborators. That way they can finish their current projects and move on to the next crop of interesting hacks. It's only Thursday night, so there are just a few hundred people in Camp. But already these hackers have begun to gather and exchange brainpower.
+
+Anyway, I try to be friendly and sociable. I'm the only cDc member at the Camp. Hell, I'm the only cDc member on the whole continent. I answer a few people's questions about Back Orifice 2000, which makes me feel like I'm actually doing my part to represent the herd.
+
+Eventually, the jetlag overpowers me and I stumble into my tent with a couple of Spatens.
+
+ 
+
+AUGUST 6, FRIDAY
+4:20am. Awoken from sleep by a rockhard bladder. I can tell it's pretty cold out there, and I don't want to walk all the way to the porta-potty, but I must drain the reservoir.
+
+I take out my earplugs in anticipation of the big journey to the porta-potty... I hear people snoring, and a dog barking. Glad I brought the earplugs.
+
+After a moment or two, I decide that rather than do the responsible adult thing I will piss into a double-lined ziplock bag and dispose of the contents later. (Which works beautifully, I must say.) Back to sleep.
+
+I wake up again at 8am, thirsty. Hungry. I realize that the last food I've eaten was in Heathrow Airport yesterday morning.
+
+I walk to the Hackcenter to return two empty beer bottles for the deposit (1 DM each) and purchase a bottle of water. Then I walk around camp and take a few pictures, mindful of the camera rules.
+
+Individual participants are allowed to take pictures and video, if and only if every person being recorded grants explicit prior permission. Therefore I'm trying to avoid taking pictures of people, just landscapes and details. (Taken as a whole, my pictures appear to document a deserted summer camp.)
+
+I run into another photographer in front of the Art&Beauty tent. In his real life he does security for the UK's largest ISP. He tells me he was at HIP '97. He says that this event is much smaller than HIP so far. We agree that most people will arrive tonight and tomorrow afternoon.
+
+I'm up to something like 10 pictures when I encounter a photographer from Britain. He warns me to be careful. He says he took a panoramic shot inside the Hackcenter and one of the security personnel nearly confiscated his film. Sounds like they're serious about the camera rules.
+
+I suspect that the camp organizers are concerned about shutterbugs to protect their even stricter rules governing professional journalists, who are specifically disallowed from taking any pictures or videos. To meet the needs of the news media, the camp organizers have hired a crew to produce print- and broadcast-quality images.
+
+Ostensibly the reason for pool footage is that the press cannot be expected to act as responsible visitors. The cameras' presence will cause certain camp-goers to hide, and thus impede their participation. But there is also the financial motive. The CCC intends to sell their pool footage to news outlets. Furthermore, the press are required to pay full admission price to step foot in the camp (without their cameras).
+
+Frank asked me last night how the cDc managed to get so much press coverage for Back Orifice 2000. It's actually pretty simple: we're finely-tuned media whores. Three weeks ago, we did our Defcon presentation. Then we had a spiel for each of the reporters:
+
+"Hello, Mr. Journalist. Let's set you up for a private interview with DilDog, Sir Dystic, and anybody else you want. On camera, off camera, whatever. We can hold it back at the cDc suite. Or we can do it on the floor of the convention hall. Or if none of that works for you, a few cDc members are holding a press conference in the official Press Room. Need pictures? We can arrange it. More interviews later? Fine. Just some goofy hacker-style pictures for the B-roll? No problem, just drop by the suite. We'll arrange something." [Ed: In fact, Reid Fleming has written a file for the journalist new to the computer hacker beat, "The Journalist's Cookbook"]
+
+For their part, the CCC have come to distrust the media. So they have placed tight controls on the press. Unfortunately, this inevitably means less press coverage. And the CCC is relying on news pieces to improve camp attendance figures. (They have yet to break even.)
+
+At 9am I purchase some fruit from one of the vendors and wander back to my tent. A few minutes later I hear Frank's cell phone ringing softly in his tent. He has a short conversation, then another couple of minutes later the phone rings again. This time he has a 15 minute discussion.
+
+Soon Frank emerges from his tent. I split my orange with him and he tells me he was just doing a live interview with a local radio station. He hopes it will attract more people.
+
+9:45am local police flyby in a helicopter. Frank waves playfully. Frank says that they have an unusually good relationship with the local cops.
+
+We decide on hemp waffles. We have the option of "normal" or "space cake". The space cakes contain THC. We choose normal. There are space cakes already done, but the normal batter is still being mixed. That's okay, we're patient.
+
+Waiting for the waffles, Frank gets another phone call. He gets a phone call every 10 minutes on average, it seems. It's the official camp photographer.
+
+What is Frank's job here? He is one of two spokesmen for the press, and is also the Pope of the Reengineering camp. His official title is Workshop Coordinator, but he is also responsible for crisis management. Frank's cell phone number is listed in the Camp's Internic record in case something bad happens, like someone hacking a high-profile target from here.
+
+Then someone from the Hippies from Hell contingent sits down at the waffle stand and strikes up a conversation. Her name is Ine, she's from Amsterdam. She wants to verify that I'm really in the cDc. Turns out that Ine knows a couple of friends of mine, including Count Zero.
+
+Everybody finally gets their waffles. We eat and continue to talk. Frank leaves to attend to camp business, leaving Ine and I to chat. She runs a website called Women With Beards. It's precisely what the name implies: pictures of women wearing beards.
+
+Ine has an idea for a hacker documentary, concentrating on the social sphere rather than technical exploits. She wants to shoot some video. We head back to the HFH van and Ine grabs her camcorder. Which just so happens to be the same model as mine (except hers is PAL and mine NTSC). We talk camcorders for a while, then decide to check out the noon welcome announcements.
+
+She's trying to gather footage for her documentary. Which is about the society of hackers. Rather than concentrating on the technology, or luminaries in the scene, she wants to explore the subculture and its history.
+
+12:00 Very brief welcome at noon. No attempts to gather a crowd. Promptly at 12 it just began. And the announcements ran for perhaps 10 minutes. Then it ended. No fanfare. Mostly an orientation for anyone who hadn't read the booklet.
+
+Ine wants to shoot video starting at the Lockpicking camp, then work our way around the Camp. Fine with me.
+
+Fifty pairs of shoes outside a big tent. A few people sitting on chairs or benches picking locks of varying difficulty. Big sign in English and German: "NO SHOES IN TENT. DO NOT PICK AT DOORS OR CARS IN THIS CAMPSITE!!"
+
+Scads of people sitting on the floor, no place to step. Everyone has a basic pickset. The instructors pass out locks. Beginner locks, they hasten to point out. The people are told to insert a pick and count the number of pins.
+
+Behind the instructors, videotapes play silently on a television screen demonstrating locksmiths in action. At the back of the room is a wall display of snapshots, including several of people picking underwater in SCUBA gear.
+
+It's no accident that almost every hacker I have known has at one time owned a set of lockpicks. Lockpicking is suited to people who are interested in learning the internal mechanisms -- the hidden details -- of devices. Particularly when they are designed to resist such scrutiny.
+
+Outside the tent, I meet a couple of guys working on intermediate locks. They are American emigrees living in Germany. They arrived today at 5am. One of them brought a smartcard that their university uses for laundry machines. He wants to reverse engineer it. If you put 20 DM on it there is a 4pf residue for no apparent reason. His instinct is that it contains a software bug worth investigating. He asks me a few questions about BO2K, kinda makes me wish I had brought some cDc merchandise to give away.
+
+At 12:50pm the instructors clear everyone out of the tent and quickly vacuum the rugs. Time to get ready for the English workshop, beginning in ten minutes.
+
+Sometimes Ine will say something in German and I wonder if she's talking to herself. After this happens a few times, I mention it. Apparently she keeps forgetting that I speak English, not German. I guess both languages are equivalently foreign to her.
+
+At some point Ine takes off to shoot more video and I head over to the Cryptography camp for a little relaxation.
+
+This is the camp most unlike the others. It's definitely the most American. It was organized by, of, and for the Cypherpunks. Their camp caters to their desires, which is apparently lots of booze, lots of connectivity, inflatable furniture, and lots of places to sit and smoke and drink and talk.
+
+There I run into Garbage Heap, who arrived last night without a tent. So he's been trying (unsuccessfully) all night to get some sleep in the Cypherpunks party tent. I send him off to my tent for a quiet place to lie down.
+
+I spend an hour dicking around and meeting people. Then at 2:00pm I check out the Hacking Crypto Export Restrictions session. The session is being held in one of two huge workshop tents. They each have rigid frames, temporary wooden flooring, and seating for about 300.
+
+In their informal manner, John Gilmore and Hugh Daniels illustrate the inconsistency of the U.S. Government's export restrictions, by way of several examples. They talk about the necessity of crypto for human rights and commerce. They urge everybody to lobby their government now to affect the Wassenar vote on intangibles at the end of the year. For my contribution, I slip a brief mention about BO2K into the Q&A session.
+
+Sometime after the Crypto session, a couple of friends show up. Strick and Soylent arrive at the Cypherpunk area. We chat briefly, then Lucky Green hits up each of us for Crypto camp dues.
+
+We each pay the fee (370 DM, or $200) partly because we can afford it, but mainly because we want refrigerator privileges. If you pay, then you are free to consume the Cypherpunk consumables: food, candy, liquor, wine, soft drinks.
+
+Unfortunately, as it happens the Cypherpunk refrigerator is a shitty European model which can make ice but doesn't chill anything in the main compartment. (Next time the Cypherpunks vow to bring dry ice. I hope they also include bottled water instead of just alcohol and Diet Coke.)
+
+At some point, I head over to the Hackcenter. Which is where I run into some of the guys from ADM, whose recent claim to fame is hacking the Defcon page last month. They turn out to be very friendly and of course highly technical. I leave them so they can talk strategy for tomorrow night's main event, the Linux Deathmatch.
+
+ 
+
+WAFFLE ACTION
+Sometime in the late afternoon I catch up with Soylent. We decide to try the space waffles. We go to the waffle kitchen, a very short walk from the Crypto camp.
+
+I order a space waffle with chocolate ice cream. Soylent does the same. It's 5 DM for the waffle, 50pf extra for the ice cream scoop. Soylent decides to eat his like a regular waffle, with a fork and plate. I opt to curl my waffle into an ice cream cone.
+
+I take a bite. It tastes like... waffle batter and pot and chocolate ice cream. The pot contributes a strong flavor which is not entirely pleasant. Glad I opted for the ice cream.
+
+After we finish our waffles, we head back to the Crypto camp to wait it out. We sit and chat, and after 30 minutes pass, Soylent gets a little restless. Neither of us has felt any effects yet. He wants to double his dosage by eating another waffle. I figure the THC just hasn't hit the bloodstream yet. Soylent leaves and has another waffle.
+
+He comes back to the Cypherpunks tent and we chat for a while. By this time the sun is setting. Gradually I feel the waffle kicking in. So does Soy.
+
+It only takes another 30 or 40 minutes for us to get pretty high, when night falls and we meet a Bavarian woman calling herself Eva.
+
+Eva talks to us. Evidently she's been drinking. She asks me for a glass of wine because she didn't pay the Cypherpunk fee. By now I am definitely under the influence, and simple tasks like getting somebody some wine turn out to be very complicated. There aren't any open bottles and there aren't any corkscrews.
+
+At some point I get a corkscrew from a Samaritan and open a new bottle. About the time I actually hand Eva a cup, somebody walks into the tent and says that that there is a fire-breathing demonstration going on.
+
+Eva gets excited. She knows where this is happening, because she saw it earlier tonight. Soy and I follow her, because the camp is large and it's dark and we don't know where to go and we're high.
+
+Turns out it's going on between the lockpicking camp and the Hackcenter, next to a parked fire engine. A small gathering of people standing in an arc around somebody spitting lamp oil into a burning torch. Big flames.
+
+Apparently these are all volunteers from the audience breathing fire. It's more than just something to watch; it's a workshop.
+
+Eva had been telling us on the way here that she knows how to do this. She had learned as a teenager and it is easier than people think. She keeps repeating that there is practically no way to catch yourself on fire.
+
+We get up close and join the standing crowd of perhaps 15 people. A young woman is trying to execute her spit but for some reason is having difficulty. Appears to be second thoughts. Eva takes this opportunity to step up and accept the challenge.
+
+They give her a mouthful of lamp oil to test her spit technique. That's worth about 3 practice spits, which are not lit. Presumably for safety.
+
+When the instructor is satisfied that Eva can spit without drooling (or whatever he's worried about) she takes another mouthful and spits it into the torch. It burns like a champ. She spits some more times, takes another mouthful and spits that as well. Not bad.
+
+As Eva disappears out of sight into the left arm of the crowd, another guy steps up. He generates some particularly impressive flames. The crowd murmurs its content.
+
+Then Eva gets back to us and tries to rid her mouth of the lamp oil taste. "Do you think I can light a cigarette?" she asks. We and some innocent bystander next to us say NO. So she waits a couple of minutes before bringing an open flame next to her face.
+
+While we're figuring out what to do next, the young woman reappears. She spits once tentatively, then a few more times with confidence, then once with gusto. Then the girl has some difficulty and jerks her head back and away. Too close for comfort evidently. She spits a couple more times to prove to herself that she can still do it, then steps back into the audience. Nice applause.
+
+Eva says, "I gave her confidence. She saw me and then she could do it." I look over at Soylent but I can't tell what he is thinking. Then we wander over to the nearby lockpicking tent.
+
+Soylent takes off his sandals and says he shouldn't be long. Eva is chatting up some up some 30ish guy and trying to get him to join us. He's one of the Hippies from Hell. But he politely declines, claiming a prior commitment.
+
+Soylent returns after his brief survey of the lockpicking activity. He puts his sandals back on and Eva declares that she wants to purchase each of us a drink. We go to the Hackcenter and aim for the bar.
+
+Soylent says he doesn't want a drink. Eva asks me if I do, and I decline too. She gets herself a glass of wine and then we follow her outside the big tent.
+
+Soylent says he wants to go check out the Cypherpunks area again. Eva says that's fine, she'll just take me someplace to talk. Soylent leaves, and she and I take off in a long, accidental ellipse arriving back at the lakeshore. She wants to know if all Americans own guns. We discuss our positions on capital punishment. She finishes her wine.
+
+Eva attempts to get more wine from one of the vendors next to the lakeshore. This time she is denied; they have none. They talk in German and the guy offers her various liquors but she's not interested.
+
+We walk back toward the Hackcenter, once we figure out where we are. She's telling me about her psychotic episodes when she gave birth and when her son was 2 years old. Eva says she was hospitalized and then gets some more wine from the Hackcenter bar.
+
+We start walking out into Nowhereland again, but I steer us back toward the Crypto camp. We end up walking through the Hippies from Hell open air chill out/make out tarp, where we run into Soylent again.
+
+"I was just telling him about my psychotic episodes," she tells Soylent. He appears surprised for a moment, but just for a moment.
+
+Eva explains that she was a squatter when she gave birth and she started fainting. Apparently she once fainted while smoking a cigarette on the couch and caused a fire when she fainted. Then she was institutionalized.
+
+Then she starts talking about some photos she has of herself from the waist down spitting fire from between her spread legs across a lit candle stuck in her vagina. She demonstrates the posture on the rug floor. It's one of those porno/yoga positions.
+
+She talks a bit more before Soylent says he's going back to the Hackcenter. This time I make it known that I am going back to my tent to write.
+
+Eva looks briefly discouraged, but kisses us on both cheeks and hugs each of us twice in saying goodnight. Then she says to me "Goodnight. Or maybe I will see you later." We wave and walk away.
+
+On our way to the Hackcenter we encounter the Nugget, from the tail of which smoke is slowly emitting. It's an interesting show, especially when you're stoned. We look at it for a short while, then get in the tent.
+
+We get some beers and sit down. The projection screen is displaying a cool screen saver.
+
+Soy mentions how high he is right now. I'm pretty buzzed, but he's pretty fucking high. I crack a few jokes about the presentation machine when it freezes. After a few minutes of staring at a bluescreen, he turns to me and says "I'm having trouble remembering where I am. I have to think about it, then I remember."
+
+A couple of minutes later I bid him adieu and retire for the evening. At some point, gheap shows up in my tent. He declines my offer of a free pair of earplugs. Silly man.
+
+ 
+
+AUGUST 7, SATURDAY
+Looks like the attendance has peaked at about 1,500. Frank says they need another 500 people just to break even.
+
+In the afternoon, gheap and I catch a couple of sessions. One is on the mBone and multicasting, the other is on buffer overflows. The sessions are fine as far they go, but we're not paying much attention. We're really just trying to kill time before the Linux Deathmatch.
+
+Anytime I'm not watching a session I'm usually hanging out at the Cypherpunks camp, listening to the conversations and trying to stay out of the sun.
+
+The network has been down most of the day. Somebody was flooding the net with bogus packets. Finally it stopped and everyone can reach the internet again. We come to find out that it was some script kiddie with a new tool who didn't realize he was broadcasting all of his packets. When the Camp staff finally found him, they made him clean out portable toilets as punishment.
+
+ 
+
+LINUX DEATHMATCH
+In the evening we gather in the Hackcenter to catch the Linux Deathmatch. Here's the basic idea: keep your Linux system responsive to network requests, and hack your opponents' systems to death. Which makes it, essentially, a demolition derby.
+
+As far as the ADM guys understood it, the rules of engagement were fairly simple:
+
+You build a Linux system that fits on a floppy disk. Just before the competition, you are given an Intel-compatible clone you've never seen before. It has a network card and is plugged into a switch. You slam your disk into the assigned machine, and then hack for five hours.
+
+You must have enabled a bunch of services, including ftp, http, mail. Every few minutes, the referee machine tries each of these services on your computer, and awards points when it can successfully retrieve data from your system.
+
+You win by having the most points after five hours. Basically you are trying to maintain your uptime and ruin everyone else's.
+
+But before you are assigned a machine, you must submit to the system approval process. That's when the judges inspect your patches for anti-competitive features. During which, one of the ADM's modifications is ruled illegal: deep down in the networking code is a rule to ignore all traffic not originating from a specific MAC address (that of the referee machine).
+
+The ADM guys politely appeal the decision, and receive some points in exchange for removing the illegal code. After removing the offending kernel mod, they finally get the referee's blessing. Shortly thereafter, the game begins.
+
+Only three teams are competing. Behind each team are about twenty spectators, each trying to read the computer monitor. Meanwhile, the team members type, discuss, argue. A few times, I see one particular competitor yell "Shit!" and frantically unplug his ethernet cable.
+
+Unfortunately, the ADM guys are struggling with a serious network problem. The connection is extremely flaky. As they cope with this setback, the other two teams pull ahead.
+
+On the big projection screen against the tent wall is a bar graph displaying the live point totals. Two big bars and a smaller one. It's okay, but what you really want to see is the video feed from each team's monitor. You want to see what they're typing.
+
+I get pulled away to do an interview for the official Camp video crew, and when I come back the ADM guys are still working on their network problem.
+
+The ADM crew spends the first 90 minutes just trying to debug their network problems. Then they realize that the judges supplied them with a defective ethernet cable. But even with a 90 minute delay, the ADM crew manages to place second of the three teams.
+
+ 
+
+AUGUST 8, SUNDAY
+At some point I notice the big CCC flag flying atop the microwave tower. I guess they overruled the Aesthetics people.
+
+Around noontime I'm hanging out with Ine near the center of camp, next to the Nugget. A car shows up and some humanoid extraterrestrials step out. They prop up a freestanding booth made out of cardboard which has alien writing all over it, and some strategically-placed holes.
+
+One of the E.T.s is writing prescriptions on a pad of paper for neck massages, palm readings, etc. People talk to the strange being and receive a backrub. How very Sprockets.
+
+This goes on for about 20 minutes and then it starts raining, at which point the aliens move their shop into the Hackcenter. Later on, I ask Frank about the aliens and he tells me that they are actually German performance artists, hired by the rave people.
+
+In the afternoon we checked out a presentation about Freedom.Net. Freedom.Net is all about persistent pseudonymity. You can create personas which are not correlatable with your true identity.
+
+I watch as various audience members attack the technical details. There are lots of ways a human could compromise his or her identity while using a "nym" persona, but these mostly amount to pilot error.
+
+Meanwhile, I trust the technology but worry about the larger legal and political issues. Seems to me that the first time a Freedom.Net user commits a major computer crime, they will receive a subpoena for all logs, etc. If they cannot provide them (and presumably they couldn't) what would their legal liability be? How long before the government makes it a crime to provide internet access to people without proof of ID?
+
+Later on in the afternoon, the remaining campers gather in the Hackcenter for the closing session. The main person behind the Camp, Tim Pritlove, thanks everyone who helped make it such a success.
+
+Then various awards are given for the Art Design and Reengineering contests, except that the winner of the Reengineering contest wished to remain anonymous. Presumably because the winning work has something to do with cracking cell phone encryption, or something like that.
+
+Tim Pritlove asks volunteers to stay an extra day or two to tear down the Camp. He also points out that there is hardly any trash in the Camp; everybody has been using the trash cans and keeping their areas clean. I hadn't noticed it until he said it, but he's right. The place is basically spotless.
+
+Finally, Tim passes on a message from the crew of the Heart of Gold. Evidently their repairs are now completed and they wish to express their gratitude to all of us.
+
+Later on, I find a PCMCIA Xircom combo card lying in the grass. I give it to Frank for Lost and Found, and it turns out to be John Gilmore's.
+
+At some point I'm hanging out with the ADM guys, who express a distinct interest in going to town for a meal containing meat. I decide to tag along when the consensus is McDonalds. Besides, I need to visit an ATM (Geldautomat).
+
+It's me, them, and a guy from Poland named Greg. The five of us pile into a car and head into Altlandsberg, about 20 minutes away. Only when we arrive at the Geldautomat do I realize that I have left my wallet in the tent. I am a fucking idiot.
+
+We go to McDonalds. Luckily I still have about 20 DM, and the meal only costs about 8.50 DM.
+
+During dinner, Greg tells us his story. He says he was checking out the CCC website last week and read about the Camp. He decided to come, but he had no money. So he hitchhiked to Germany. By the time he got to Berlin and found the bus to Paulshof, he was completely broke. He told the bus driver that he had no money, and the driver let him ride for free (!!).
+
+The CCC agreed to give Greg food and board, and allow him to stay at the Camp in return for helping to set up. The CCC is going to give him 400 DM if he stays the next two days and helps tear down.
+
+When we ask him why he would come all this way to Germany on a whim, he says Poland is really, really boring.
+
+ 
+
+AUGUST 9, MONDAY
+I sleep in until something like 8:30 or 9:00. Walk around camp taking pictures. Camp is largely deserted but there are still tents and people sleeping in them. I take lots of pictures and then head over to the Cypherpunks camp.
+
+I'm feeling very lazy so I toy with the idea of not showering for an hour or so. After all, I will be in a hotel room in a few hours. Eventually common sense gets the better of me and I take a shower. Then I come back to my tent and pack. Then I try to do anything except tear down the tent because I am still feeling lazy. But I do it finally and then head over to the Crypto village to find Soylent and Strick.
+
+I expect them to be all packed and waiting for me since they have a schedule to keep and I don't. But it's another 60-90 minutes before we finally got out. We get a ride into town from some Dutch guy and catch the bus to the S-Bahn station. 45 minutes later we're in Berlin.
+
+At the Berlin Zoo train station I finally insert tab "ATM card" into slot "Geldautomat" and luckily it works...
+
+ 
+
+BACK IN THE USA
+It's taken me months to sit down and rewrite my notes. Longer than it should have, and much longer than I kept telling Frank. (By the way, Frank wanted me to mention that, thanks to some of their sponsors, the Camp managed to break even.)
+
+Looking back on the Camp, it was more relaxing and interesting than any hacker con I've seen. You were encouraged to meet people, have a good time, and work on projects. I saw no violence, no thefts, no visits by the police, no nosy reporters. Instead I saw people teaching, learning, doing projects, and just hanging out.
+
+The crucial thing is the entire event was held away from civilization, outdoors, in a horse pasture next to a lake. I have now realized that this was the essential ingredient in the Camp's success. Because of its physical isolation, this was no mere conference; it was a colony. If you are drawn to hacking, then that place was a true haven.
+
+Thanks to: Frank Rieger for hounding me until I finally agreed to show up, and for being a remarkable host; Ine for being a good sport; all the people I met, chatted with, and generally bothered; the ADM guys; my friends Soylent, Strick, and Garbage Heap for being themselves.
+
+My deepest gratitude goes to the CCC for holding the Chaos Communication Camp in the first place. If the CCC ever holds another one, I will be there.
+
+Editor: The cDc ("Wer? Kult der Tote Kuh?") would also like to thank the CCC -- especially Wau -- for the hospitality they extended Reid Fleming and Omega when they visited Berlin during the summer of 1998.
+
+Official Camp Website
+     http://www.ccc.de/camp/
+
+Hacking in Progress
+     http://www.hip.nl/
+
+Women With Beards
+     http://www.dds.nl/~beards/
+
+Official Castle Smurfenstein Home Page
+     http://evlweb.eecs.uic.edu/aej/smurf.html
+
+Reid Fleming's pics
+     http://www.newhackcity.net/~rfleming/cccamp1999/
+
+    .-.                             _   _                             .-.
+   /   \           .-.             ((___))             .-.           /   \
+  /.ooM \         /   \       .-.  [ x x ]  .-.       /   \         /.ooM \
+-/-------\-------/-----\-----/---\--\   /--/---\-----/-----\-------/-------\-
+/lucky  13\     /       \   /     `-(' ')-'     \   /       \     /lucky  13\
+           \   /         `-'         (U)         `-'         \   /
+            `-'              the original e-zine              `-'    _
+      Oooo                    eastside westside                     / )   __
+ /)(\ (   \                       WORLDWIDE                        /  (  /  \
+ \__/  )  /  Copyright (c) 2000 cDc communications and the author. \   ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+          cDc communications, 1369 Madison Ave., #423, NY, NY 10128       _
+  oooO            All rights reserved.  Edited by Omega.            __   ( \
+ /   ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ (   /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo 
+

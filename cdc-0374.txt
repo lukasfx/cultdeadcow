@@ -1,0 +1,113 @@
+                                    _
+                                   | \
+                                   |  \
+                                   | | \
+                            __     | |\ \             __
+      _____________       _/_/     | | \ \          _/_/     _____________
+     |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+     | |              _/_/_____    | |   > >    _/_/_____               | |
+     | |             /________/    | |  / /    /________/               | |
+     | |                           | | / /                              | |
+     | |                           | |/ /                               | |
+     | |                           | | /                                | |
+     | |                           |  /                                 | |
+     | |                           |_/                                  | |
+     | |                                                                | |
+     | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+     | |________________________________________________________________| |
+     |____________________________________________________________________|
+
+  ...presents...            The L0pht Hurrah
+
+                                                       by Oxblood Ruffin
+                                                       4/8/2000-#374
+
+             __///////\ -cDc- CULT OF THE DEAD COW -cDc- /\\\\\\\__
+               \\\\\\\/  Everything You Need Since 1984  \///////
+  ___    _   _    ___     _   _    ___       _   _      ___    _   _      ___
+ |___heal_the_sick___raise_the_dead___cleanse_the_lepers___cast_out_demons___|
+The L0pht (pronounced, loft) always looked like a set from the Terry Gilliam's movie, Brazil. A chaotic assembly of monitors, exposed mother boards, the impossible logic of hybrid machines, linguinied cables, and my personal favorite, The Crapintosh [don't ask]. But now this legendary workspace looks like the I.R.A just trashed it looking for the last bottle of whiskey in the world.
+
+The party's over.
+
+The L0pht is both a workshop in Boston and the collective name of the hackers who made it famous. And it has just thrown its last open house, a party about as easy to get into as a trip to the White House -- a distinction one of its members has recently enjoyed.
+
+But this celebration did not begin with Hail to the Chief. Brian Oblivion -- one of the L0pht's founders -- kick started the party with a round of dance tracks that he'd organized on his laptop. It's the first time that I've seen a DJ's system perched on a stack of computer manuals [Applied Cryptography, Hacking Exposed, and NT Network Security, if memory serves].
+
+The evening was dedicated to bringing old friends together and closing a chapter on the evolution of The L0pht. The location has changed a few times since its first incarnation in 1992. And there is the recent merger with @Stake, a computer security development group and consultancy that has changed forever how the L0pht will operate.
+
+It has been an incredible journey; one that was never planned.
+
+Behind every great man, there's a great milliner
+Like so many things in life, the romance of legend often outstrips the dull luster of fact. And so it is with the L0pht. Although the original founders are cited as Brian Oblivion, Count Zero (Zero), Golgo 13 (Golgo) and White Knight (WK), there was a fifth Sex Pistol so to speak.
+
+Without this great personality the L0pht never would have come into being. And that large talent, that stellar element of the Boston underground is, big drum roll, Brian Oblivion's wife.
+
+Mrs. Oblivion is a hat maker. As her business began to expand beyond the limitations of her home she found a loft space to conduct her business. And while the great lady was at it, she decided to move Brian's excrescent hardware collection out of the apartment and into the loft space.
+
+Three others shared the same fate. Zero, Golgo and WK all had more gear than their living spaces allowed. Out went the crapola and the L0pht -- as it became known in hackerspeak -- was rapidly stocked with all manner of found technology. The hat appeared to fit. So it was the exigencies of accommodation and not the intrigues more common to Hollywood plot lines that launched the world's greatest hacker atelier.
+
+Birth of the anti-frats
+
+It was a common enough phenomenon, especially in Boston where technology and hacking have had a long and distinguished history. Along with the L0pht there were other groups, like Messiah Village and Newhackcity; all populated with the same kind of hacker. Young, brilliant and s to the a to the u to the c to the y.
+
+They were hackers with little formal education in computer science. Some went to university and studied anthropology or music. Others never made it out of high school. But what they all had in common was the drive to pull apart computers and the applications that drove them; then they'd throw them back together in more powerful and personal ways.
+
+The L0pht consciousness -- if such a thing can be described -- evolved out of the BBS scene in the eighties. It was a loose network of local dial-up boxes across North America and Europe. They traded in g-files or textfiles as they are now called. And these files would contain the code to telephony and computer exploits, stories of mayhem, Satan worship [purely for laughs], song lyrics, and some of the most creative ascii art ever captured.
+
+Bow to the Cow
+At the epicenter of this movement was the CULT OF THE DEAD COW (cDc), a hacker group founded in Lubbock, Texas in 1984. Two of the original founders of the original L0pht are members of the cDc, as are two on its current roster, Mudge and Dildog. Although the cDc and L0pht are two separate and distinct organizations, they have shared members and influenced each other immeasurably.
+
+The L0pht was launched at the end of the BBS scene and with the birth of the Web. For years it hosted the original CULT OF THE DEAD COW Web site, as well as some of the most extraordinary collections of hack/phreak/anarchy content in the short history of the Web. There wasn't a kid in the world interested in hacking who did not at one time -- usually many times -- visit the L0pht Web site to feast on a world of learning that changed their lives forever.
+
+All the while the crew at the L0pht worked on original hacking projects. Most work revolved around security issues, whether in programs or across networks. And over time they began to assemble an arsenal of technology upon which they would test their various inventions and exploits. The L0pht would then publish their findings, usually as L0pht Advisories [formal white papers]; detailing the minutiae of poor code formations that screamed for correction.
+
+These advisories in fact have accounted for much of the L0pht's fame, or infamy depending upon whom one listens. Hackers have always favored security through openness as opposed to security through obscurity. If exploits are discovered, then they should be revealed so everyone knows what they are, not just the bad guys.
+
+This approach has not endeared the L0pht to their principal nemesis, Microsoft.
+
+Everything will BO2K
+The Redmond infolith appears to let their marketing division direct their security efforts, an observation made by many third party security consultants. It is typical for Microsoft to flail its arms every time the L0pht - or anyone else - publicizes one of their vulnerabilities. One of the most recent and compelling examples was the cDc/L0pht collaboration on Back Orifice 2000, or BO2K as it is known.
+
+BO2K is a remote network administration tool. It can be run in stealth mode, a common feature to applications of this type. This means that a user wouldn't know that his/her machine was being administered externally. In addition to this, Dildog who programmed this app, did so in such an elegant and precise fashion that BO2K is a very small program; small enough to be sent as an email attachment; small enough to be opened, installed and functioning within moments; and, small enough not to be noticed.
+
+The CULT OF THE DEAD COW released this application with much fanfare. We ran a publicity campaign for B02K that was as effective as any product launch from Microsoft. The BO2K release demonstrated that: a) we could offer the public a free, open-source application better than anything else on the market; and b) it acted as a wake-up call to the public. BO2K can be programmed to run as a Trojan [a program operating on a users machine without the user's knowledge]. This application, more than any other initiative, raised public awareness to the dangers of Trojans. The facts were published. Microsoft grew apoplectic.
+
+It is this same kind of work that the L0pht has taken on from its inception. Searching out the flaws, making them known, and building tools that forced the Net to become a more secure place. They have held software and hardware vendors feet to the fire and forced them to clean up their act and release better products. L0pht members have also spoken widely and well to issues concerning Internet security. Space Rogue, another L0pht member, launched the Hacker News Network, one of the few places on the Web that covers hacker issues with any credibility.
+
+Mr. President, may I present Mudge
+You don't get as much press as the L0pht does and avoid getting attention. During the summer of 1998, the L0pht went to Washington to testify before the United States Senate. The members, Space Rogue, Mudge, Brian Oblivion, Dildog, Silicosis, Kingpin, Tan, and Weld Pond, had gained such notoriety that the government of the United States sat up and took notice.
+
+The most remarkable feature of their appearance at the Senate hearings was seeing them in suits. Normally they look like members of a punk band. But being grilled by politicians is the kind of thing that requires a jacket and tie, if only as camouflage. This was where they told the Senate that they could shut the Internet down in half an hour. Fortunately, they never made good on this claim.
+
+This was a watershed moment for the L0pht. There prestige was at an all-time high, the venture capitalists were clamoring, and not too much later they formed an alliance with @Stake to act as their R&D division.
+
+The rest is more recent history. An invitation to join President Clinton's Internet security advisory panel was the cherry on top of the whipped cream. And the coolest thing of all was that they did it on their own terms. For a hacker to be addressed by the President of the Untied States by his handle and not given name is the ultimate form of legitimization.
+
+Quite a long way from the early days of caffeinated hack marathons at the first L0pht.
+
+Bomb solid
+
+After eight years of struggling and some well deserved funding, the L0pht had a good reason to celebrate. Last Saturday night the space that has become the Jerusalem of hacking threw its last annual open house. Music blared, war stories were told, and if a bomb had gone off, the elite of Internet security would have left the Net a more dangerous place than they found it.
+
+It was somehow fitting that on the wall facing the DJ hung an autographed picture of Senator John Glenn. There seemed to be a straight line from his bold voyage in space to where the L0pht had set its course. While they have more in common with rock stars than American patriots, they have shown the same pioneering spirit. The L0pht has always traveled to where others could not reach, or were too afraid to venture.
+
+Even their parties are the bomb.
+
+    .-.                             _   _                             .-.
+   /   \           .-.             ((___))             .-.           /   \
+  /.ooM \         /   \       .-.  [ x x ]  .-.       /   \         /.ooM \
+-/-------\-------/-----\-----/---\--\   /--/---\-----/-----\-------/-------\-
+/lucky  13\     /       \   /     `-(' ')-'     \   /       \     /lucky  13\
+           \   /         `-'         (U)         `-'         \   /
+            `-'              the original e-zine              `-'    _
+      Oooo                    eastside westside                     / )   __
+ /)(\ (   \                       WORLDWIDE                        /  (  /  \
+ \__/  )  /  Copyright (c) 2000 cDc communications and the author. \   ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+          cDc communications, 1369 Madison Ave., #423, NY, NY 10128       _
+  oooO            All rights reserved.  Edited by Omega.            __   ( \
+ /   ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ (   /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo 
+

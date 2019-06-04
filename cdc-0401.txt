@@ -1,0 +1,187 @@
+                                   _
+                                  | \
+                                  |  \
+                                  | | \
+                           __     | |\ \             __
+     _____________       _/_/     | | \ \          _/_/     _____________
+    |  ___________     _/_/       | |  \ \       _/_/       ___________  |
+    | |              _/_/_____    | |   > >    _/_/_____               | |
+    | |             /________/    | |  / /    /________/               | |
+    | |                           | | / /                              | |
+    | |                           | |/ /                               | |
+    | |                           | | /                                | |
+    | |                           |  /                                 | |
+    | |                           |_/                                  | |
+    | |                                                                | |
+    | |      c   o   m   m   u   n   i   c   a   t   i   o   n   s     | |
+    | |________________________________________________________________| |
+    |____________________________________________________________________|
+
+         ...presents...          No Be There
+                                                               by Flack
+
+           __//////\   -cDc- CULT OF THE DEAD COW -cDc-   /\\\\\\__
+                    __      Grand Imperial Dynasty      __
+ Est. 1984   \\\\\\/ cDc paramedia: texXxt 401-11/09/2005 \//////   Est. 1984
+
+  ___    _   _    ___     _   _    ___       _   _      ___    _   _      __
+ |___heal_the_sick___raise_the_dead___cleanse_the_lepers___cast_out_demons__|
+
+     Mr. Miyagi said it best; "Best way to avoid being hit - no be there."
+
+     Not only does this advice apply to karate (it got Daniel-san through
+three movies, after all), but to hacking as well.  By design, TCP/IP packets
+are pretty simple to trace.  When you connect to a host system, your IP
+address is usually logged - thus begins the game.  They try and find us; we
+try and make that difficult.
+
+     For years, I have been obsessed with the idea of "the perfect hack," one
+that would be completely untraceable.  Years ago, I thought I had come up with
+it.  A co-worker of mine loaned me his username and password for a school
+project (what a guy).  Within minutes, I had downloaded the ISP's password
+file, and that weekend I had tons of working accounts.  By sheer luck, one of
+the accounts I cracked belonged to the local police department.  After a
+little poking around, I found out that they were running their website from
+that account as well.  Oh, happy day!  Soon, a plan was formulated.  A
+replacement website was designed, one with a picture of my butt in a jailhouse
+window, complete with a bunch of shoutouts and whatnot.
+
+     I had everything in place and ready to go, but in the end I chickened
+out.  There were just too many ways to get caught.  Dialing the ISP from my
+house would make things a little too convenient for the authorities, who no
+doubt would get involved in solving their own website defacement.  Even
+telnetting across the country and abroad did not seem like a foolproof method
+of hiding my location.  I had even considered going to a public place like a
+school, library or office building and performing the hack from one of their
+phone lines, but that introduced the layer of physical security (namely,
+security cameras).  That is all I needed - a picture of my face to go with
+that of my rear end.  At one point I had even prepared a 100ft phone cord,
+complete with alligator clips on one end for the purpose of hooking up to a
+telephone pedestal and jacking into a line there.  Wow, nothing suspicious
+about a kid with a laptop sitting on the street corner with line running to a
+big green metal box.  Eventually, the entire project was shelved.
+
+     That adventure took place ten years ago this summer.  Of course, the
+technology now exists that will allow me to perpetrate the perfect hack, and
+the good news is it runs about $30.  I am referring to, of course, wireless
+NICs.
+
+     Three years ago, I got caught up in the then-exciting new world of
+wardriving.  But you see, I do not live in California or New York.  I live in
+Oklahoma (where the wind goes sweeping down the plain).  I have never seen a
+warchalking symbol in the wild.  Heck, for the majority of 2002, I could not
+even find another wireless signal.
+
+     But times have changed my friends.  Oh, how they have changed.
+
+     Last weekend, I ran a simple experiment.  Running Netstumbler on my
+laptop, I checked out my neighborhood once again.  In the stretch between my
+house and the neighborhood entrance, there are approximately 50 houses.
+During that drive, I hit 31 wireless access points; 25 of them unprotected.
+Simply put, that means (at least in my neighborhood) that 62% of the houses
+near me have wireless routers in their homes - and 80% of those are wide open,
+the equivalent of connecting one end of a network cable to your home LAN and
+leaving the other end at the end of your driveway for me to use whenever I
+want, however I want.
+
+     But it gets even better.  While driving down a major street, I began
+picking up wireless access points that identified themselves.  Many of the
+coffee shops, hotels, and restaurants in my area have begun offering free
+wireless Internet access to patrons.  Apparently that offer has been extended
+to people parking across the street.  While sitting in the parking lot of my
+local car wash, I can pick up three different wireless signals.  Two of them
+are wide open, and one of them is using WEP.
+
+     Now, let's talk about wireless security for a moment.  The big two I run
+into are WEP and MAC locking.  With the right tools, you can crack both in
+less than ten minutes, and five if you are lucky.  So far though, I have not
+needed to.  So many people have left their keys in the ignition, so-to-speak,
+that I have not needed to pick any locks yet.  Do not forget about those
+security features though, as we are going to come back to them shortly.
+
+     For now, let's start thinking about that perfect crime again.  Using that
+scenario from ten years ago, let's say the local police department comes into
+work one day and their website has a picture of some dude's butt on the front
+page.  Furious, they call their ISP and demand to know what happened.  The ISP
+checks their logs and says they logged a FTP connection coming from 1.2.3.4
+at 2am.  A simple lookup shows that 1.2.3.4 is a DSL user.  The authorities
+call the local DSL provider, the IP is provided, and that leads the
+authorities to... the Ramada Inn.  The FBI shows up, confiscating equipment,
+throwing search warrants around and generally threatening to "get to the
+bottom of this."
+
+     Of course, you know where I am going with this.  Our hacker was never at
+the Ramada Inn.  He was using their wireless signal from the car wash across
+the street.  Maybe he was even sitting over there watching the raid as it
+happened.
+
+     Now, let's take this further.  Most of the machines that I have run
+across are Windows 2000 machines.  If they have wireless access points wide
+open, chances are they do not have administrator passwords either.  Through
+remote desktop sharing, you can now do all your hacking FROM THEIR COMPUTER.
+It just does not get any better than that.  Any evidence from the attack will
+be on their computer, not yours.  If you wanted to set a guy up, just think of
+what a few downloaded pictures and a friendly tip to your local police
+department could do.  All the logs would show connections from his computer to
+the Internet.
+
+     If you want to complicate things, pick one of those sites you found
+running WEP.  Why?  Because they think they are secure, and (at least
+initially) they will rule out someone from the outside coming in that way.
+Same thing with people who lock down MAC addresses.  They will be scratching
+their heads as you waltz in and out of their systems, using their wifi point
+as a springboard for your operations.
+
+     Back in the day, a good shell account was golden.  We all had those one
+or two accounts that seemed to last forever or had really large quotas that we
+hung on to.  The beauty of using WAPs as launching points is, there is no
+preference.  They are all the same.  As long as you can easily connect to one
+and remain physically unobtrusive, it does not matter.  I recently went on a
+two-hour road trip and found hundreds of unprotected wifi points.  I do not
+know who owns them and I do not care.  Occasionally I would pull over, grab an
+IP, check my mail, and then move on.
+
+     While doing this, another idea occurred to me.  Hackers needing to pass
+sensitive documents, files or data to one another could do it through
+unsuspecting wireless hosts.  No longer would spies need to use goofy catch
+phrases and drop off paper bags in the park to trade secrets.  One spy might
+e-mail another spy the message, "4th and Main."  The police would intercept
+the message and stake out 4th and main, watching and waiting for anything
+suspicious.  Little would they realize that the message meant, "there is a
+wifi signal at 4th and Main."  While the cops are looking for anything out of
+the ordinary, a guy parked across the street uses his laptop to find the wifi
+signal, connect to the machine, and pick up the file from a predetermined
+directory location.
+
+     Miyagi had the right idea.  When pissed off Feds show up, you do NOT want
+to be there.  By launching attacks from unsuspecting wireless access points,
+you can ensure that the dust trail does not lead back to your camp.
+
+         ___________    BLATTA---NON     EST---VACCA     ___________
+         \         /      \    \_            _/    /     \         /
+          |A G L A|        \     \          /     /       |A G L A|
+          ||\/X\/||         \    EST_   _EST     /        ||\/X\/||
+          || \./ ||          \       \ /        /         || \./ ||
+|\        ||_3 4_||        /|NON     cDc     NON|\        ||_3 4_||        /|
+| -------._((___))_.------- |EST      |      EST| -------._((___))_.------- |
+|\/)(\/\   [ x x ]   /\/)(\/|   \     |     /   |\/)(\/\   [ x x ]   /\/)(\/|
+|(YHVH) >A  \   /  O< (AHIH)|    \   EST   /    |(YHVH) >A  \   /  O< (AHIH)|
+|/\)(/\/  _ (' ') _  \/\)(/\|     \   |   /     |/\)(/\/  _ (' ') _  \/\)(/\|
+| -------' ) (U) ( '------- |      \  |  /      | -------' ) (U) ( '------- |
+|/        ||  .  ||        \|    DAEMONSEMEN    |/        ||  .  ||        \|
+          || / \ ||                ELIGERE                || / \ ||
+          ||/\X/\||                                       ||/\X/\||
+          |A D N I|          the original e-zine          |A D N I|
+         /_________\         - today, tomorrow -         /_________\
+      xXx  DYNASTY  xXx            FOREVER            xXx  DYNASTY  xXx
+                                                                     _
+      Oooo                 xXx / RULE BOVINIA \ xXx                 / )   __
+ /)(\ ( . \                                                        /  (  /  \
+ \__/  )  /  Copyright (c) 2005 cDc communications and the author. \ . ) \)(/
+       (_/     CULT OF THE DEAD COW is a registered trademark of    oooO
+         cDc communications, 1369 Madison Ave. #423, NY, NY 10128, USA    _
+  oooO              All rights left.  Edited by Myles Long.         __   ( \
+ / . ) /)(\                                                        /  \  )  \
+ \  (  \__/       Save yourself!  Go outside!  Do something!       \)(/ ( . /
+  \_)                     xXx   BOW to the COW   xXx                    Oooo
+                                    .ooM
